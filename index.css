@@ -3,11 +3,28 @@ h1{
 }
 div{
     background-color: brown;
+    padding: 200px;
+        border: 1px solid #4caf54;
+        text-align: center;
+        width: 300px;
+        border:20px salmon;
+        padding: 60px;
+        margin: auto;
 
 }
 p{
     background-color: burlywood;
+    background-color: ;
 }
 body{
     background-color: burlywood;
+    text-overflow: clip;
+
+    
+}
+p.groove {border-style: groove;}p.groove {border-style: groove;}
+
+img{
+    border: coral;
+    shape-outside: inherit;
 }
