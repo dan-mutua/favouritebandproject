@@ -3,6 +3,8 @@ h1{
     font-family: fantasy;
 }
 div{
+    background-image: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.vanseodesign.com%2Fblog%2Fwp-content%2Fuploads%2F2011%2F10%2Fbackground-3.jpg&imgrefurl=https%3A%2F%2Fvanseodesign.com%2Fcss%2Fbackground-properties%2F&tbnid=WR5VDWSHTYgkHM&vet=12ahUKEwjF3-CZ_4LxAhXEgc4BHU35AQgQMygEegUIARDQAQ..i&docid=uUSdICS5X8peFM&w=465&h=279&q=css%20background%20images&client=ubuntu&ved=2ahUKEwjF3-CZ_4LxAhXEgc4BHU35AQgQMygEegUIARDQAQ");
+    background: url("download.jpeg");  
     opacity: 0.7;
     font-family: Arial, Helvetica, sans-serif;
     padding: 200px;
@@ -11,17 +13,13 @@ div{
         width: 400px;
         padding: 200px;
         margin: auto
+    
 }
 p{
     background-color: burlywood;
 }
 body{
-    background-position: bottom;
-    background-image: url("img_tree.png");
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 200px;
-    background-attachment: fixed;
+      
     text-overflow: clip
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
@@ -34,8 +32,5 @@ img{
     shape-outside: initial
     opacity: 1;
     shape-rendering: geometricPrecision;
-
-}
-html{
     
 }
