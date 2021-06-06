@@ -4,13 +4,12 @@ h1{
 div{
     background-color: brown;
     padding: 200px;
-        border: 1px solid #4caf54;
+        border: 110px solid #4caf54;
         text-align: center;
         width: 300px;
-        border:20px salmon;
-        padding: 60px;
-        margin: auto;
-
+        border:100px salmon;
+        padding: 200px;
+        margin: auto
 }
 p{
     background-color: burlywood;
