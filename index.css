@@ -6,19 +6,28 @@ h1{
 }
 
 body{
-     text-align: justify;
+     text-align: center;
     text-decoration: blanchedalmond;
-    background-color: burlywood;
     text-decoration: brown;
     text-indent: 30px;
-    background-image:
+    background-image:image(logo.jpg)
 
 }
 img{
-    border-radius: 60%;
+    border-radius: 100%;
     width: auto;
-    height: 150px;
+    height: 250px;
     box-shadow:0 4px 6px 0 rgb(255, 255, 200)
 
 
+}
+
+html{
+    background-attachment: fixed;
+    background-color: salmon;
+    text-align: center;
+    text-decoration: black;
+}
+li{
+    text-align: center;
 }
