@@ -3,7 +3,7 @@ h1{
     font-family: fantasy;
 }
 div{
-      
+      background-color: goldenrod;
     opacity: 0.7;
     font-family: Arial, Helvetica, sans-serif;
     padding: 200px;
@@ -14,9 +14,7 @@ div{
         margin: auto
     
 }
-p{
-    background-color: burlywood;
-}
+
 body{
       font-size: medium;  
       font-style: normal;  
@@ -40,9 +38,9 @@ html{
     background-attachment: fixed;
     flex: 30px;
     background-blend-mode: saturation;
-    background-image: 
+    background-color: navy black;
 }
 
-.card_image{
-    shape-rendering: geometricPrecision;
+image{
+    shape-rendering: crispEdges;
 }
