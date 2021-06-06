@@ -3,6 +3,7 @@ h1{
 }
 div{
     background-color: brown;
+    opacity: 0.7;
     padding: 200px;
         border: 110px solid #4caf54;
         text-align: center;
@@ -13,7 +14,6 @@ div{
 }
 p{
     background-color: burlywood;
-    background-color: ;
 }
 body{
     background-color: burlywood;
@@ -26,4 +26,6 @@ p.groove {border-style: groove;}p.groove {border-style: groove;}
 img{
     border: coral;
     shape-outside: inherit;
+    opacity: 0.7;
+
 }
