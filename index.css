@@ -39,8 +39,6 @@ html{
     flex: 30px;
     background-blend-mode: saturation;
     background-color: navy black;
-}
-
-image{
+    background-color: brown;
     shape-rendering: crispEdges;
 }
