@@ -3,8 +3,7 @@ h1{
     font-family: fantasy;
 }
 div{
-    background-image: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.vanseodesign.com%2Fblog%2Fwp-content%2Fuploads%2F2011%2F10%2Fbackground-3.jpg&imgrefurl=https%3A%2F%2Fvanseodesign.com%2Fcss%2Fbackground-properties%2F&tbnid=WR5VDWSHTYgkHM&vet=12ahUKEwjF3-CZ_4LxAhXEgc4BHU35AQgQMygEegUIARDQAQ..i&docid=uUSdICS5X8peFM&w=465&h=279&q=css%20background%20images&client=ubuntu&ved=2ahUKEwjF3-CZ_4LxAhXEgc4BHU35AQgQMygEegUIARDQAQ");
-    background: url("download.jpeg");  
+      
     opacity: 0.7;
     font-family: Arial, Helvetica, sans-serif;
     padding: 200px;
@@ -23,17 +22,27 @@ body{
       font-style: normal;  
       font-family: Georgia, 'Times New Roman', Times, serif;
       flex: 20px;
+      background-color: solid greenyellow;
+      outline: 2px solid black;
 }
 p.groove {border-style: groove;}p.groove {border-style: groove;}
 
 img{
-    border: coral;
-    shape-outside: initial
-    opacity: 1;
-    shape-rendering: geometricPrecision;
-    
+    border: cadetblue;
+    flex-wrap: wrap;
+    object-fit: cover;
+    width: 200px;
 }
 li{
     text-align: justify;
 }
+html{
+    background-attachment: fixed;
+    flex: 30px;
+    background-blend-mode: saturation;
+    background-image: 
+}
+
+.card_image{
+    shape-rendering: geometricPrecision;
 }
