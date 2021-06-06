@@ -34,3 +34,7 @@ img{
     shape-rendering: geometricPrecision;
     
 }
+li{
+    text-align: justify;
+}
+}
