@@ -11,5 +11,14 @@ body{
     background-color: burlywood;
     text-decoration: brown;
     text-indent: 30px;
-    background-image: "images/1d";
+    background-image:
+
+}
+img{
+    border-radius: 60%;
+    width: auto;
+    height: 150px;
+    box-shadow:0 4px 6px 0 rgb(255, 255, 200)
+
+
 }
