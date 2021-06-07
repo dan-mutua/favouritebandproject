@@ -10,7 +10,7 @@ div{
         border: 110px solid #4caf54;
         text-align: center;
         width: 400px;
-        padding: 200px;
+        padding: 100px;
         margin: auto
     
 }
@@ -38,7 +38,7 @@ html{
     background-attachment: fixed;
     flex: 30px;
     background-blend-mode: saturation;
-    background-color: navy black;
-    background-color: rgb(49, 4, 21);
+    background-image: url(images/1D_World\,_Albion_Street\,_Leeds_\(30th_March_2013\)_001.jpeg);
+    background-attachment: scroll;
     shape-rendering: crispEdges;
 }
