@@ -1,0 +1,44 @@
+h1{
+    background-color: lavenderblush;
+    font-family: fantasy;
+}
+div{
+      background-color: goldenrod;
+    opacity: 0.7;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 200px;
+        border: 110px solid #4caf54;
+        text-align: center;
+        width: 400px;
+        padding: 100px;
+        margin: auto
+    
+}
+
+body{
+      font-size: medium;  
+      font-style: normal;  
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      flex: 20px;
+      background-color: solid greenyellow;
+      outline: 2px solid black;
+}
+p.groove {border-style: groove;}p.groove {border-style: groove;}
+
+img{
+    border: cadetblue;
+    flex-wrap: wrap;
+    object-fit: cover;
+    width: 200px;
+}
+li{
+    text-align: justify;
+}
+html{
+    background-attachment: fixed;
+    flex: 30px;
+    background-blend-mode: saturation;
+    background-image: url(images/1D_World\,_Albion_Street\,_Leeds_\(30th_March_2013\)_001.jpeg);
+    background-attachment: scroll;
+    shape-rendering: crispEdges;
+}
